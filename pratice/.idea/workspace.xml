@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d195319-8cbc-4e61-a612-82ad0661abf3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../FileManager/space-vue/src/components/homepage/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../../FileManager/space-vue/src/components/homepage/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/sonarlint/issuestore/9/6/963d19555c4fd16d9dd88c62367c7fa9c73f904b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/sonarlint/issuestore/a/1/a1abf30208d766c6296604367bbdcc327f399eb3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cloudProject/maincloud/feign-hi/src/main/java/com/cloud/feignhi/config/TestRabbitConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../cloudProject/maincloud/feign-hi/src/main/java/com/cloud/feignhi/config/TestRabbitConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cloudProject/maincloud/feign-hi/src/main/java/com/cloud/feignhi/controller/FeignController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../cloudProject/maincloud/feign-hi/src/main/java/com/cloud/feignhi/controller/FeignController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cloudProject/maincloud/feign-hi/src/main/java/com/cloud/feignhi/service/TestRecevier.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../cloudProject/maincloud/feign-hi/src/main/java/com/cloud/feignhi/service/TestRecevier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cloudProject/maincloud/feign-hi/src/main/java/com/cloud/feignhi/service/TestSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../cloudProject/maincloud/feign-hi/src/main/java/com/cloud/feignhi/service/TestSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cloudProject/maincloud/turbine/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../cloudProject/maincloud/turbine/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cloudProject/maincloud/turbine/src/main/java/com/cloud/turbine/TurbineApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../cloudProject/maincloud/turbine/src/main/java/com/cloud/turbine/TurbineApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cloudProject/maincloud/turbine/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../cloudProject/maincloud/turbine/src/main/resources/application.yml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\git-repos\HySpace\hy-space\pratice\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dkwDmY90UcFG9weZPyFbsqw7dZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15039062" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.LetterAdd">
+    <configuration name="BdAdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BdAdd" />
+      <module name="pratice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LetterAdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LetterAdd" />
+      <module name="pratice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LetterAdd" />
+        <item itemvalue="Application.BdAdd" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d195319-8cbc-4e61-a612-82ad0661abf3" name="Default Changelist" comment="" />
+      <created>1592982282026</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592982282026</updated>
+      <workItem from="1592982283458" duration="74000" />
+      <workItem from="1592982862826" duration="1286000" />
+      <workItem from="1595396005996" duration="4099000" />
+      <workItem from="1595486014125" duration="899000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

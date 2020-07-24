@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0792375-3d31-4da8-8f7a-efe12b21be1e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/0/e/0efef296fbd54cf8784f6d0c36827ab08a1da725" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/2/c/2cc67434909b15a465a24b603049c787ce45c86d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/2/d/2df3bf2778f209d2b19f04929eca39429b64719f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/4/4/447372ac01bdb96424f17d1525fd2c404c4900f1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/4/9/496a238a6afa168dbaf6efd37bb459331589579c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/5/9/597484ee27f8ab4f945cf3f2df73256e81b7b44d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/7/9/7966cb61a5f97e609fce3056f7f1e3630808f694" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/7/9/799fb4aa510579d60269490956a82ad4ea5e3fb6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/8/2/82c7cea3ec738eb20e5db646fdbf61e060211703" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/8/2/82e40506263bec6a67aba46e51104d0d186e10b0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/a/0/a03fe7894792c1141eec167d7d77701ab4638414" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/a/3/a3b99aa1c1d78da94dc5ff350b1d0f671bfb526b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/c/8/c803361ec962767134e4d7fdd31a162d97ddc17a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/d/4/d46e121a942f2b2981d5bc970a331ac9d16a2348" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/d/7/d785cbdcdb977d45a233ed7e8faa9b10388a2551" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/d/9/d98ef9de9408ff74517898ce93bbe5b0fa9cda1a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/e/6/e6798ceeae53eab72f2fa3a50a1ca9d79a2fa35f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/f/0/f016a4354e36841ab7d9b21380ad3f1056caf7ab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/f/6/f61e49402c9e7b39c25a9fd7cd873a653440793d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/f/9/f9a934be1f57bb5ac5e4e48d70f6e79e7381aaac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pratice/pratice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/sonarlint/issuestore/9/6/963d19555c4fd16d9dd88c62367c7fa9c73f904b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/sonarlint/issuestore/a/1/a1abf30208d766c6296604367bbdcc327f399eb3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/0/7/0736ad31214ad3e54eafb475266a54106176fb89" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/6/6/6635c5ad2c702c4f258efeacc9a58b64f8bd0cd2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/8/d/8d12f5f520fb84945e99c0b45323ca54e0c26fc5" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/8/d/8d12f5f520fb84945e99c0b45323ca54e0c26fc5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/b/b/bb6be9aa9f4b88cb992c6b157f954b011afc6643" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/c/1/c15bf12f6fe55924a73d81823b0221486296195c" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/c/1/c15bf12f6fe55924a73d81823b0221486296195c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/c/b/cb7c56f010ff3fa4a411e28ca5d51b31727d92e1" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/c/b/cb7c56f010ff3fa4a411e28ca5d51b31727d92e1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/d/3/d3255ec7af1d3941108b3442b98e8374817854dc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/e/c/ecac382acd099717a15872efd53b3747d64a096e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/f/2/f267ba272407617e0727d2c9e693cc477b32e62a" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/f/2/f267ba272407617e0727d2c9e693cc477b32e62a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/f/5/f5471ab57775beda341c0c89fe60d43ffdafb487" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/hello/HelloWorld.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/hello/HelloWorld.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-user-client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../space-user-client/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-user-client/src/main/java/com/huanyue/spacepageclient/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../space-user-client/src/main/java/com/huanyue/spacepageclient/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-user-client/src/main/java/com/huanyue/spacepageclient/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../space-user-client/src/main/java/com/huanyue/spacepageclient/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-user-client/src/main/java/com/huanyue/spacepageclient/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../space-user-client/src/main/java/com/huanyue/spacepageclient/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-user-client/src/main/resources/mapping/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../space-user-client/src/main/resources/mapping/UserMapper.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="vue" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1di3E9Y18lyRnkhHa5tjSvqbA5Q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="SpacePageClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="space-page-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.huanyue.spacepageclient.SpacePageClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0792375-3d31-4da8-8f7a-efe12b21be1e" name="Default Changelist" comment="" />
+      <created>1592893971423</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592893971423</updated>
+      <workItem from="1592893974395" duration="204000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
